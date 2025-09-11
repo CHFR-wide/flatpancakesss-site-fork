@@ -1,0 +1,9 @@
+ <header>
+    <div class="header">
+    <h1>{{ $.Site.Title }}</h1>
+    {{- if $.Site.Params.theme_config.show_description -}}
+        <p>{{ $.Site.Params.description }}</p>
+    {{- end -}}
+    {{ partial "menu_item.html" (dict "context" . "collection" $.Site.Data.menu.entries) }}    
+    </div>
+</header>
