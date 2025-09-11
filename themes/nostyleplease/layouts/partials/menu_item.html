@@ -1,7 +1,7 @@
 <ul>
     {{- range $item := .collection -}}
         <li>
-            {{- with $item.url -}}
+            {{- with $item.url | relURL -}}
                 <a href="{{ $item.url | relURL }}">{{ safeHTML $item.title }}</a>
             {{- else -}}
                 {{ safeHTML $item.title }}
