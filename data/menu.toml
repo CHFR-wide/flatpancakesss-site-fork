@@ -1,11 +1,11 @@
 [[entries]]
 title = "Home"
-  url = "/"
+  url = ""
 
 [[entries]]
 title = "Posts"
-  url = "/posts"
+  url = "posts"
 
 [[entries]]
 title = "About"
-  url = "/about"
+  url = "about"

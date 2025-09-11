@@ -1,4 +1,4 @@
-baseURL = 'https://flatpancakessss.github.io/home/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'flatpancakesss webpage'
 theme = 'nostyleplease' 
