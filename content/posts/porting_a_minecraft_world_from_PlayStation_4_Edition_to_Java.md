@@ -7,9 +7,7 @@ Like most people my age, I used to play a lot of Minecraft in Primary and Second
 
 By 2017, we all had moved from PS3/360 to PS4, so we started a new multiplayer Creative mode world, over the next few years, we spent *a lot* of time playing on it. My PlayStation 4 account reached over 2600 hours played just on Minecraft alone.
 
-![alt text](images/Minecraft2000hours.png)
-
-![alt text](images/Minecraft1.png)
+![alt text](images/Minecraft1.jpg)
 
 In December 2019, Minecraft on console recieved a major update. It promised to be a huge upgrade for Minecraft's console editions, bringing a new engine, crossplatform multiplayer, online multiplayer servers and 1:1 version parity across all platforms.
 
@@ -29,11 +27,11 @@ In Legacy, The End instead functions as a simple boss arena for the Ender Dragon
 
 One of the key landmarks in our world was a city that somebody had built on the End Island. Converting would cause any parts of the city near the invisible walls to get deleted and replaced by newly generated chunks.
 
-![alt text](images/MinecraftEndCity.png)
+![alt text](images/Minecraft2.jpg)
 
 On top of that, any kind of special tile (fences, doors, signs, etc) would be reset to their default states. There were also some smaller issues such as signs losing their text, or chests losing their inventories. It was annoying and nobody wanted to go through the hassle of manually replacing every broken special tile on the map.
 
-![alt text](images/MinecraftBrokenFence.png)
+![alt text](images/Minecraft3.jpg)
 
 Unrelated to any specific issue with the world converter, we also quickly discovered that Bedrock felt really bad to play on. Everything was much slower and clunkier to control with worse menus, more major glitches, and much worse game performance.
 
@@ -49,7 +47,7 @@ I did not want to convert my world to Bedrock Edition as (even when ignoring the
 
 On a random night in March 2025, during a call with my friends, I was complaining about how much I miss "old" console Minecraft and how I stopped playing the game because of Bedrock Edition. Poyoraz suggested that I try the [Legacy4J](https://modrinth.com/mod/legacy4j/versions) mod for Java Edition.
 
-![alt text](images/MinecraftLegacy4J1.png)
+![alt text](images/Minecraft4.jpg)
 
 After testing out the mod, I was stunned. It was a 1:1 perfect recreation down to every tiny detail, every UI menu, even the player's movement physics were adjusted to feel just like Legacy Edition.
 
@@ -61,7 +59,7 @@ Later during this call, I proposed the idea of trying to find a way to recover m
 
 Converting Minecraft worlds between different versions is something I had looked into before, but never attempted. When discussing the idea in call, Poyoraz suggested that I try using [je2be](https://je2be.app/), an online tool for converting worlds between Minecraft versions.
 
-![alt text](images/MinecraftJe2BeAPP.png)
+![alt text](images/Minecraft1_1.png)
 
 If our world was on PS3, conversion would've been easy, I would've been able to export the save file to USB and then convert the PS3 game data into a Java world using je2be with no extra steps. But unforunately, converting from PS4 (Legacy) save files is not supported. I believe its because exported PS4 save files are encrypted.
 
@@ -75,14 +73,14 @@ I could download the Bedrock version of the map on PC, take a free trial of Real
 
 Theoretically, this same method should work in reverse for bringing PS4 worlds to Java. If I could convert our PS4 world to Bedrock, then it be possible to create a Realm on the PS4 and then connect to it on PC. From there I could download the world from the Realm and convert that Bedrock data into Java data with je2be.
 
-![alt text](images/MinecraftPlan.png)
+![alt text](images/Minecraft1_2.png)
 
 With the plan sorted out, the first thing I had to do was convert the world from PlayStation 4 Edition to Bedrock Edition using the in-game tools.
 
 Conversion took a while, but that was to be expected as the world was very large. I must compliment Bedrock for having more efficient world file sizes, our 7GB PS4 world data was compressed down to about 300MB during the conversion.
 
-![alt text](images/Minecraft7GB.png)
-![alt text](images/MinecraftAfter.png)
+![alt text](images/Minecraft5.jpg)
+![alt text](images/Minecraft6.jpg)
 
 After converting the world to Bedrock, the next step was to upload it to Realms. It is typically a paid service but I just used the free trial (and then forgot to cancel it anyways... rip €4).
 
@@ -108,18 +106,18 @@ After that headache, I finally had access to the Realms free trial, but uploadin
 
 Because I was going to be waiting a while, I went to download Bedrock on PC in preparation for the next steps. But when I tried to download it, I was told my launcher was outdated. This wasn't a surprise, I rarely use my PC for games so I had likely just downloaded Minecraft years ago and then never opened it again.
 
-![alt text](images/MinecraftLauncher.png)
+![alt text](images/Minecraft1_3.png)
 
 When trying to download the new Minecraft Launcher, it took me to the Microsoft Store. I've never used the Microsoft Store before this, but I heard it was terrible. In my experience, it would not even work.  
 
 At first, it would not let me choose the install path for the download, the box was just blank so I could not click the install button. 
 
-![alt text](images/MinecraftLauncher2.png)
+![alt text](images/Minecraft7.jpg)
 
 When I fixed that issue, it would just say my internet was not connected whenever I tried to download the Minecraft Launcher. Eventually I couldn't even check the Minecraft Launcher in my library as it just said "Error" even though it could still see that I owned both Java and Bedrock (for Windows).
 
-![alt text](images/MinecraftLauncher3.png)
-![alt text](images/MinecraftStoreError.png)
+![alt text](images/Minecraft8.jpg)
+![alt text](images/Minecraft9.jpg)
 
 We tried to troubleshoot it for about an hour but it was not working at all.
 
@@ -129,25 +127,25 @@ With the world converted to Bedrock, the last step was to convert from Bedrock t
 
 I could not stay awake any longer, so I went to bed and left my computer on. It was streaming the conversion process on a Discord call so that Michael could supervise the world conversion and wake me up if anything went wrong. 
 
-![alt text](images/Minecraftje2be2.png)
+![alt text](images/Minecraft1_4.png)
 
 After a long struggle with Microsoft's account systems and roughly 3.5 hours of wait for je2be, the conversion process had finished and our world was ready to be opened in Java. The entire process ended up taking around 7 hours, with the large majority of it being spent on messing aroung with Microsoft accounts and wating for je2be to finish converting.
 
 **Final Results**
 
-![alt text](images/MinecraftLegacy4J2.png)
+![alt text](images/Minecraft10.jpg)
 
 After converting the world between 3 completely different versions of Minecraft, I was expecting to see major issues or corruptions with the world, but everything turned out almost entirely fine.
 
 The issues with Bedrock's converter were still present, special tiles became corrupted, mostly doors and signs. Some of these corruptions were quite interesting, such as doors being made up of 2 bottom half tiles, and armor stands that were wearing iron door textures on their heads.
 
-![alt text](images/MinecraftBuggedDoor.png)
+![alt text](images/Minecraft11.jpg)
 
-![alt text](images/MinecraftIronDoorHead.png)
+![alt text](images/Minecraft12.jpg)
 
 One of the funniest issues was that the gamerules were reset to default. TNT explosions had been disabled in our old server, but once we opened the world in Java, the gamerules got reset, immediately blowing up the cat that had been sitting on a TNT pressure plate for about 6 years.
 
-![alt text](images/MinecraftMorgana.png)
+![alt text](images/Minecraft13.jpg)
 
 Outside of these specific events, I couldn't find any other issues with the world. I couldn't find any issues outside of those caused by Bedrock's converter.
 
@@ -157,9 +155,9 @@ I repeated this conversion process 2 more times to transfer a few other worlds, 
 
 These worlds are pretty basic and empty. I don't care much for Suvival, so I only used them for that purpose. I still wanted to preserve them anyways.
 
-![alt text](images/MinecraftSurvival1.png)
+![alt text](images/Minecraft14.jpg)
 
-![alt text](images/MinecraftSurvival2.png)
+![alt text](images/Minecraft15.jpg)
 
 The conversion process was a lot quicker this time around as I wasn't wasting time with Microsoft's account systems. je2be also converted the worlds much quicker since they were significantly smaller.
 
@@ -167,11 +165,11 @@ As for the old multiplayer Creative world, I downloaded a cute shader pack to ma
 
 It would be impossible for me to showcase everything in our world due to how absurdly large it is, but I'll show a few pictures.
 
-![alt text](images/MinecraftBuilds1.png)
+![alt text](images/Minecraft16.jpg)
 
-![alt text](images/MinecraftBuilds6.png)
+![alt text](images/Minecraft17.jpg)
 
-![alt text](images/MinecraftNetherBase2.png)
+![alt text](images/Minecraft18.jpg)
 
 In the end, I'm very happy I was able to figure out a way to preserve my old Creative map. I don't play Minecraft or video games in general as much anymore, but it's still very nice to play on this map and build together with friends from time to time.
 
