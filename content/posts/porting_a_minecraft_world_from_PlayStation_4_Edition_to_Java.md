@@ -19,7 +19,7 @@ From here onwards, I'm going to be reffering to Minecraft: PlayStation 4 Edition
 
 As this was a different version of the game, old save files were incompatible. The new version provided an in-game tool to convert your worlds from Legacy Edition to Bedrock Edition, but it wasn't perfect.
 
-**Issues with Bedrock's world converter**
+## Issues with Bedrock's world converter
 
 One of the biggest issues is that The End is handled completely differently between Legacy and Bedrock. Bedrock's End works much like Java Edition, in which it's a seperate dimension, just like the normal world and the Nether.
 
@@ -35,9 +35,9 @@ On top of that, any kind of special tile (fences, doors, signs, etc) would be re
 
 Unrelated to any specific issue with the world converter, we also quickly discovered that Bedrock felt really bad to play on. Everything was much slower and clunkier to control with worse menus, more major glitches, and much worse game performance.
 
-With these issues, we decided that we were not going to convert the world to Bedrock and would stay on Legacy instead. Even though Bedrock Edition did replace the Legacy Edition application, there was a button on the title screen to revert back to playing Legeacy Edition if you paid for it before December 2019. 
+With these issues, we decided that we were not going to convert the world to Bedrock and would stay on Legacy instead. Even though Bedrock Edition did replace the Legacy Edition application, there was a button on the title screen to revert back to playing Legacy Edition if you paid for it before December 2019. 
 
-**Discovering the Legacy4J mod for Java Edition**
+## Discovering the Legacy4J mod for Java Edition
 
 In early 2024, the button to access Legacy Edition disappeared from my Minecraft title screen. I believe this happens when PSN cannot verify that you owned Minecraft before the update. 
 
@@ -55,7 +55,7 @@ I immediately fell back in love with Minecraft thanks to this mod, Poyraz said I
 
 Later during this call, I proposed the idea of trying to find a way to recover my old PS4 creative world.
 
-**Converting the world from Legacy Edition to Java Edition**
+## Converting the world from Legacy Edition to Java Edition
 
 Converting Minecraft worlds between different versions is something I had looked into before, but never attempted. When discussing the idea in call, Poyoraz suggested that I try using [je2be](https://je2be.app/), an online tool for converting worlds between Minecraft versions.
 
@@ -131,7 +131,7 @@ I could not stay awake any longer, so I went to bed and left my computer on. It 
 
 After a long struggle with Microsoft's account systems and roughly 3.5 hours of wait for je2be, the conversion process had finished and our world was ready to be opened in Java. The entire process ended up taking around 7 hours, with the large majority of it being spent on messing aroung with Microsoft accounts and wating for je2be to finish converting.
 
-**Final Results**
+## Final Results
 
 ![alt text](images/Minecraft10.jpg)
 
@@ -149,7 +149,7 @@ One of the funniest issues was that the gamerules were reset to default. TNT exp
 
 Outside of these specific events, I couldn't find any other issues with the world. I couldn't find any issues outside of those caused by Bedrock's converter.
 
-**Conclusion**
+## Conclusion
 
 I repeated this conversion process 2 more times to transfer a few other worlds, the first being my Survival world where I earned all of Minecraft's achivements on PS4, and then another being the same but on the PS3.
 
@@ -177,7 +177,7 @@ I don't have much else to say, it's my first time writing something like this so
 
 Thanks for reading.
 
-**Special thanks**
+## Special thanks
 
 [Poyoraz](https://www.tumblr.com/poyoraz), for introducing me to the Legacy4J mod. Without my love for that mod, this project never would've happened.
 

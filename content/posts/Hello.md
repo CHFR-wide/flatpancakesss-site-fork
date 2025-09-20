@@ -11,7 +11,7 @@ For years, I was using Twitter as somewhat of a substitute as without money or w
 
 But I've never been a fan of social media, so the idea of having my own personal website still remained on my mind.
 
-**So how did I make this site?**
+## So how did I make this site?
 
 Earlier this year, I met CHFR and we became friends quickly through our shared interests.
 
@@ -21,7 +21,7 @@ I eventually asked how his website was made, and he introduced me to [Hugo](http
 
 After some work, this page you are reading now is the end result. Without his help, I would've had no idea how to set this up on my own, I owe a lot of thanks to him!
 
-**What will this site be used for?**
+## What will this site be used for?
 
 I plan to use this site as a personal blog, mostly talking about (but not limited to):
 
@@ -32,7 +32,7 @@ I plan to use this site as a personal blog, mostly talking about (but not limite
 
 I've always loved writing about my passions and interests. If you are a friend of mine, then you're already well aware of my habit of message spamming fangirling about random things I care about. In a way, you can think of this website as an extension of that, but just in a different format that's easier to share and hopefully more permanent than Discord messages or Twitter posts are. 
 
-This doesn't mean I'm going to stop using Twitter altogether, it's just not good for long form writing. I mean... I wasn't really posting anything on Twitter anyways lol, but here I have more freedom. I can write and format these posts however I want with no constraints on the amount of words or images I can use.
+This doesn't mean I'm going to stop using Twitter altogether, it's just not good for long form writing. I mean... I wasn't really posting anything over there anyways lol, but here I have more freedom. I can write and format these posts however I want with no constraints on the amount of words or images I can use.
 
 Writing this is pretty tricky! It's my first time writing in a such a longer format, so it feels very unusual and awkward, though I'd assume its because I'm not used to it and I will improve over time.
 
