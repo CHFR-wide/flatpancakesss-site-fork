@@ -1,13 +1,15 @@
 {{ define "main" }}
 
 <article>
+    <h1>{{ .Title }}</h1>
+
         <p class="post-meta">
+        <h4>
         <time datetime="{{ .Date }}">
             Posted on {{ .Date | time.Format site.Params.theme_config.date_format }}
         </time>
-    </p>
-
-    <h1>{{ .Title }}</h1>
+        </h4>
+         </p>
 
     {{ if .Params.toc }}
         <aside {{ if .Params.tocBorder }} class="toc" {{ end }}>

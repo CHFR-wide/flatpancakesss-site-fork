@@ -6,6 +6,10 @@ title = "Home"
 title = "Posts"
   url = "posts"
 
+  [[entries]]
+title = "Works"
+  url = "works"
+
 [[entries]]
 title = "About"
   url = "about"
