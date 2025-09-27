@@ -213,6 +213,10 @@ details[open] summary {
   background-color: #ffffff;
 }
 
+.page-content {
+  padding-bottom: 3rem;
+}
+
 .header {
   max-width: 900px;
   margin: 0 auto;
@@ -264,13 +268,12 @@ details[open] summary {
 }
 
 .post-header {
-  background-color: #e3e3e3;
+  background-color: #e3e3e347;
   border-bottom: solid 2px black ;
-  padding: 0.5rem;
 }
 
-.post-header:hover {
-  background-color: #e7e7e7;
+.post-header:hover .hover-filter{
+  opacity: 0.6;
 }
 
 .post-summary {
@@ -280,5 +283,39 @@ details[open] summary {
 
 .post-date {
   padding: 0;
-  text-align: right;
+  float: right;
+}
+
+.post-continue {
+text-align: center;
+}
+
+.post-bg-image {
+  position: absolute;   /* absolute */
+  top: 0;               /* inset-0 */
+  right: 0;             /* inset-0 */
+  bottom: 0;            /* inset-0 */
+  left: 0;              /* inset-0 */
+  object-fit: cover;    /* object-cover */
+  height: 100%;         /* h-full */
+  width: 100%;          /* w-full */
+  z-index: -10;         /* -z-10 */
+}
+
+.noimg-background {
+  background-color: #d1d5db; /* bg-gray-300 */
+}
+
+.hover-filter {
+  background: white;
+  opacity: 0.2;
+}
+
+.post-thumbnail {
+  position: relative;
+  z-index: 1;
+  box-sizing: border-box;
+  padding: 0.5rem;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
 }

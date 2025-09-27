@@ -2,6 +2,7 @@
 date = '2025-09-11T21:52:51+01:00'
 draft = false
 title = 'Porting my Minecraft world from PlayStation 4 Edition to Java'
+thumbnail = 'images/Minecraft17.jpg'
 +++
 Like most people my age, I used to play a lot of Minecraft in Primary and Secondary school. It was very popular in my friend group, but we never got to play all together on the same world as we were split between PS3 and Xbox 360 owners for many years.
 

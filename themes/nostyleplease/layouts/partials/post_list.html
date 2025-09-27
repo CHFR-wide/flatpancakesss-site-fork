@@ -31,13 +31,13 @@
             <div class="post-header">
                 <a class="post-thumbnail" href="{{ .Permalink }}">
                     {{ if .Params.thumbnail }}
-                        <img src="{{ .Params.thumbnail }}" class="absolute inset-0 object-cover h-full w-full -z-10">
+                        <img src="{{ .Params.thumbnail | relURL }}" class="post-bg-image">
                     {{ else }}
-                        <div src="{{ .Params.thumbnail }}" class="absolute inset-0 bg-gray-300 h-full w-full -z-10"></div>
+                        <div class="post-bg-image noimg-background"></div>
                     {{ end }}
+                    <div class="post-bg-image hover-filter"></div>
                     <b> {{ $post.Title }} </b>
-                </a>
-                    <p class="post-date">{{- ($post.Date | time.Format site.Params.theme_config.date_format) }}</p>
+                    <span class="post-date">{{- ($post.Date | time.Format site.Params.theme_config.date_format) }}</span>
                 </a>
             </div>
 
@@ -47,7 +47,7 @@
              {{ if .Truncated }}
                         <div class="post-gradiant"></div>
                     {{ end }}
-                </div>
+                    
                 {{ if .Truncated }}
                     <a class="post-continue" href="{{ .RelPermalink }}">Continue Reading…</a>
                 {{ end }}

@@ -2,6 +2,8 @@
 date = '2025-09-25T17:52:22+01:00'
 draft = true
 title = 'Playing Mario Kart DS Online 20 Years Late'
+thumbnail = 'images/ThumbMKDS.png'
+
 +++
 write some stuff about my background with MKDS
 
