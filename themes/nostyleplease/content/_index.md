@@ -9,9 +9,6 @@ draft = false
 
 This is my personal website, thank you for visiting. There's not much to see on this page, maybe I'll put something here one day, but for now click on "Posts" to view the actual contents.
 
-The current URL is temporary, I'll get something nicer soon! 
-
-
 ## Special thanks
 
 Thank you to [CHFR](https://chfr.link/) for helping me with setup and technical support!

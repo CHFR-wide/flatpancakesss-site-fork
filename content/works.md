@@ -9,4 +9,4 @@ I have a larger, original game currently in development, but it will take a lot 
 
 This is referring specifically to **game development** works. For artworks, see either [Twitter](https://x.com/flatpancakesss) or [Pixiv](https://www.pixiv.net/en/users/53132406).
 
-> Under construction! Please come back later.
+>Under construction! Please come back later.
