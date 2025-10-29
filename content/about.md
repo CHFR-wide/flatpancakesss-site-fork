@@ -15,6 +15,7 @@ My works are primarily made with Clip Studio Paint EX, Aseprite, and GameMaker. 
 - Discord: flatpancakesss
 - [Twitter](https://x.com/flatpancakesss)
 - [Pixiv](https://www.pixiv.net/en/users/53132406)
+- [Itch.io](https://flatpancakesss.itch.io/)
 - [YouTube](https://www.youtube.com/@flatpancakesss)
 
 ![alt text](images/gspin.gif)

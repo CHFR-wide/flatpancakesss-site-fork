@@ -1,7 +1,7 @@
 +++
 date = '2025-10-08T14:33:13+01:00'
 draft = false
-title = 'I Drew Every Day for 1 Year and Made a Video About It'
+title = 'I drew every day for 1 year and made a video about it'
 thumbnail = 'images/Thumb1YRDrawing.png'
 +++
 

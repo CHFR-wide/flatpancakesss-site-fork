@@ -227,10 +227,10 @@ details[open] summary {
 }
 
 .header {
-  max-width: 900px;
+  max-width: 964px;
   margin: 0 auto;
   padding-top: 0.5rem;
-
+  padding-bottom: 0.5rem;
 }
 
 .toc {
@@ -244,7 +244,7 @@ details[open] summary {
   padding: 0;
   padding-top: 0rem;
   border: solid 2px #a98ce8 ;
-  background-color: #ffffff;
+  background-color: #ffffff
 }
 
 .header li {
@@ -259,6 +259,7 @@ details[open] summary {
 
 .header li a:hover {
   text-decoration: underline;
+  background-color: #eae0ff
 }
 
 .posts-container {
@@ -297,6 +298,7 @@ details[open] summary {
 
 .post-continue {
 text-align: center;
+
 }
 
 .post-bg-image {
