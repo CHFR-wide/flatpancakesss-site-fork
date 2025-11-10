@@ -9,13 +9,15 @@ I'm an artist, game developer, and university graduate design student.
 
 I love drawing, old video games, anime/manga, and other nerd things.
 
-My works are primarily made with Clip Studio Paint EX, Aseprite, and GameMaker. I've been developing since 2014 and began learning to draw since 2024.
+My works are primarily made with Clip Studio Paint EX, Aseprite, and GameMaker. I've been developing since 2014 (though most of it is lost to time) and began learning to draw since 2024.
 
-## ♡ Contact / Social
-- Discord: flatpancakesss
+## ♡ Social
 - [Twitter](https://x.com/flatpancakesss)
 - [Pixiv](https://www.pixiv.net/en/users/53132406)
 - [Itch.io](https://flatpancakesss.itch.io/)
 - [YouTube](https://www.youtube.com/@flatpancakesss)
+
+## ♡ Contact
+- Discord: flatpancakesss
 
 ![alt text](images/gspin.gif)

@@ -3,7 +3,7 @@ title =  ""
 date = 2022-08-25T21:30:04+08:00
 draft = false
 +++
-# Front Page
+# Home
 
 ## Welcome
 
@@ -13,4 +13,4 @@ Hello! This is my personal website, thank you for visiting. There's not much to 
 
 Thank you to [CHFR](https://chfr.link/) for helping me with setup and technical support!
 
-#### Last updated: 2025-10-26.
+#### Last updated: 2025-11-10. All dates are displayed in YYYY/MM/DD.

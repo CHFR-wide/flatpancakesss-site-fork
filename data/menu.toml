@@ -1,14 +1,14 @@
 [[entries]]
-title = "Home"
-  url = ""
-
-[[entries]]
 title = "Posts"
   url = "posts"
 
-  [[entries]]
-title = "Works"
-  url = "works"
+[[entries]]
+title = "Art"
+  url = "art"
+
+[[entries]]
+title = "Games"
+  url = "games"
 
 [[entries]]
 title = "About"

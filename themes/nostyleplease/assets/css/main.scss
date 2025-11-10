@@ -231,6 +231,11 @@ details[open] summary {
   margin: 0 auto;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+  text-decoration: none;
+}
+
+.header a:hover {
+  text-decoration: underline;
 }
 
 .toc {

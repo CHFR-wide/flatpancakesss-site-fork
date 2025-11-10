@@ -1,9 +1,10 @@
  <header>
     <div class="header">
-    <h3>{{ $.Site.Title }}</h3>
+    <a class="header" href="/"><h3>flatpancakesss.dev</h3></a>
     {{- if $.Site.Params.theme_config.show_description -}}
         <p>{{ $.Site.Params.description }}</p>
     {{- end -}}
-    {{ partial "menu_item.html" (dict "context" . "collection" $.Site.Data.menu.entries) }}    
+    {{ partial "menu_item.html" (dict "context" . "collection" $.Site.Data.menu.entries) }}  
+  
     </div>
 </header>
