@@ -4,4 +4,4 @@ draft = false
 title = 'Art'
 +++
 
-> Under Construction! Please come back later.
+> Under construction! Please come back later.
