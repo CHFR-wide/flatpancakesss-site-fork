@@ -3,7 +3,7 @@ date = '2025-08-24T18:58:36+01:00'
 draft = false
 title = 'Hyperspace'
 +++
-#### Unreleased. Developed March 2022.
+#### Developed March 2022. Not currently publicly released.
 
 ![alt](images/WorksHyperspace.png)
 

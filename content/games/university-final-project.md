@@ -1,9 +1,9 @@
 +++
 date = '2025-08-24T18:58:36+01:00'
 draft = false
-title = 'Untitled university final project'
+title = 'untitled university final project'
 +++
-#### Released 11 August 2025.
+#### Developed 11 August 2025. Not currently publicly released.
 
 ![alt](images/WorksUni.png)
 
