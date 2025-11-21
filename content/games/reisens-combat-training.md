@@ -1,7 +1,7 @@
 +++
 date = '2025-08-24T18:58:36+01:00'
 draft = false
-title = 'Reisens Combat Training'
+title = "Reisen's Combat Training"
 +++
 #### Released 17 June 2024.
 
