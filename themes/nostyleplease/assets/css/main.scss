@@ -324,7 +324,7 @@ text-align: center;
 
 .hover-filter {
   background: rgb(255, 255, 255);
-  opacity: 0.4;
+  opacity: 0.3;
 }
 
 .post-thumbnail {
@@ -342,7 +342,7 @@ text-align: center;
 }
 
 .art-post {
-  border: solid 2px black ;
+  border: solid 2px #000000 ;
 }
 
 .art-post a {
@@ -353,7 +353,7 @@ text-align: center;
 
 .art-header {
   background-color: #e3e3e347;
-  border-bottom: solid 2px black ;
+  border-bottom: solid 2px #000000 ;
 }
 
 .art-header:hover .hover-filter{
@@ -365,8 +365,8 @@ text-align: center;
   z-index: 1;
   box-sizing: border-box;
   padding: 0.5rem;
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 10rem;
+  padding-bottom: 0.5rem;
 }
 
 .art-bg-image {
