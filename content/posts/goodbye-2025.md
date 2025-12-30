@@ -1,6 +1,6 @@
 +++
 date = '2025-12-30T13:18:15Z'
-draft = true
+draft = false
 title = 'Goodbye 2025'
 thumbnail = 'images/2025art.png'
 +++
