@@ -2,7 +2,7 @@
 date = '2025-12-30T13:18:15Z'
 draft = false
 title = 'Goodbye 2025'
-thumbnail = 'images/2025art.png'
+thumbnail = 'images/art/26-01-01.png'
 +++
 
 2025 has been very busy, a lot has happened this year! It's crazy to think that we are already entering the 2nd half of the 2020s. 2020->2025 somehow both feels like it's lasted forever and also no time at all. ^ ^;
