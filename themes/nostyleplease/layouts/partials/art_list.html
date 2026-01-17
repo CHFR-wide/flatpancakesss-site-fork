@@ -35,11 +35,15 @@
                     {{ else }}
                         <div class="post-bg-image noimg-background"></div>
                     {{ end }}
-                    <div class="post-bg-image hover-filter"></div>
-                    <b> {{ $post.Title }} </b>
-                    <span class="post-date">{{- ($post.Date | time.Format site.Params.theme_config.date_format) }}</span>
+                    <div class="art-bg-image hover-filter"></div>
                 </a>
             </div>
+
+            <p class="post-summary">
+                <b> {{ $post.Title }} </b>
+                <span class="post-date">{{- ($post.Date | time.Format site.Params.theme_config.date_format) }}</span>            
+            </p>
+
         </li>
         {{ end }}
         {{- if and .show_more $limit_exceeded }}
