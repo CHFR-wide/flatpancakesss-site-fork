@@ -40,8 +40,6 @@ I chose to use Gamemaker instead of RPG Maker as Gamemaker is a more powerful to
 
 Now that I have a stronger feel for how Gamemaker "works", I can finish off the prototype and then use the systems I created to block out the rest of the game. Poyoraz also helped me tremendously with getting the text engine to work. I did originally try to use the built in Gamemaker text engine but it's honestly not very good haha. ^ ^;
 
-On an unrelated note, Gamemaker was one of the first engines I had ever used. I was obssessed with Undertale at the time and I heard that it was made in Gamemaker, so I wanted to give it a try. 
-
 ## Art
 
 My general focus with drawing recently had been to improve the way that I draw the hair, and also the colouring too.
